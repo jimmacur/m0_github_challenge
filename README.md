@@ -13,3 +13,6 @@ Describe the steps to connect a local repository to a remote repository in the `
 
 ## New Stuff
 - I am writing my own stuff here
+
+## Other Stuff
+- trying some more
